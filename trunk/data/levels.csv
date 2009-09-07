@@ -1,0 +1,7 @@
+"Num","Name","MapType","Tileset","Width","Height","Map Param 1","NumMonsterGens","MonsterGenType","NumFood","Floor tile","NumGold","Special enemies","Num Moving Walls"
+1,"The Quaziargs of Quarg","Corridor","wallset1.png",40,40,4,8,"G1",1,"dark_tile2.png",5,,0
+2,"The Labyrinth of Despair","Maze","wallset2.png",30,30,5,8,"G2",1,"road3.png",5,"Death",0
+3,"The Realm of Disappointment","OpenArea","wallset3.png",40,40,120,8,"G3",1,"grass-r7.png",5,"Death",30
+4,"The Land of Poor Imagery","Corridor","wallset2.png",80,80,8,12,"G4",2,"dark_tile2.png",15,,0
+5,"The Plain of Umlaut","OpenArea","wallset1.png",80,80,1000,12,"G5",2,"grass-r7.png",15,,0
+6,"The Dimension of Incredulity","Maze","wallset3.png",60,60,15,16,"G6",3,"road3.png",10,,0
