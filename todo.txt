@@ -1,0 +1,58 @@
+ADDED:
+Spells effectiveness depends on players magic ability
+Show players stats
+Moving walls
+
+
+TODO
+Level is a maze with no doors, but doors slowly appear - and death(s)!
+
+
+FEATURES
+Walls turn into monsters when hit
+Show splat when player hits enemy
+Enemies leave blood or corpses
+Monsters that suddently appear in front of the player
+Moving walls
+Offset the players image up a bit, so collision box is at bottom
+Skeletal corpse turns into skeleton
+The Force
+Teleporters
+Invisible walls - but shown when the player hits them
+Monsters shoot
+Giant enemy that swoops over the map
+Floors disappear when player moves close
+
+
+ENEMIES
+Enemy wizards
+Dark wood - trees that attack!
+Boulders that roll in straight line when near
+Traps - only visible when near
+
+
+POWER-UPS
+Wep range
+Move speed
+
+
+LEVELS
+Map with mega baddy and loads of treasure that is trapped by doors
+Mission: Ghosts cover area, play must recover area
+Defend castle
+Chase.
+Level that slowly disappears
+Level that slowly gets smaller
+
+
+SPELLS
+Spells - freeze enemy
+
+
+LATER
+Random dungeon name generation
+Save game
+LOTR version - Moria
+Only see enemies if in LOS?
+Baddies who move only when can't be seen
+
