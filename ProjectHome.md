@@ -1,0 +1,1 @@
+Metal Glove Solid is a remake of Gauntlet with additional gameplay elements such as a whole range of spells, randomly generated dungeons, dynamic dungeon changes, and more in-depth RPG elements.
